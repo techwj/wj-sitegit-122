@@ -1,0 +1,59 @@
+{
+  "siteId": "ornamental-fish-care",
+  "generatedAt": "2026-06-04T11:36:23.591201",
+  "categories": [
+    "beginner-ornamental-fish-care",
+    "advanced-ornamental-fish-care",
+    "tips-ornamental-fish-care",
+    "history-ornamental-fish-care",
+    "trending-ornamental-fish-care",
+    "tutorials-ornamental-fish-care"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-ornamental-fish-care",
+      "category_name": "Beginner Ornamental Fish Care"
+    },
+    {
+      "category_slug": "advanced-ornamental-fish-care",
+      "category_name": "Advanced Ornamental Fish Care"
+    },
+    {
+      "category_slug": "tips-ornamental-fish-care",
+      "category_name": "Ornamental Fish Care Tips"
+    },
+    {
+      "category_slug": "history-ornamental-fish-care",
+      "category_name": "Ornamental Fish Care History"
+    },
+    {
+      "category_slug": "trending-ornamental-fish-care",
+      "category_name": "Trending Ornamental Fish Care"
+    },
+    {
+      "category_slug": "tutorials-ornamental-fish-care",
+      "category_name": "Ornamental Fish Care Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "ornamental-fish-care",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Ornamental Fish Care Central",
+    "articles_per_row": 2
+  }
+}

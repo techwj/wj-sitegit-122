@@ -1,0 +1,88 @@
+# Validation Report - ornamental-fish-care
+
+Generated: 2026-06-04T11:36:23.590452
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Ornamental Fish Care
+- ✓ Article word count OK: Beginner Ornamental Fish Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Ornamental Fish Care
+- ✓ Article word count OK: Beginner Ornamental Fish Care Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Ornamental Fish Care
+- ✓ Article word count OK: Beginner Ornamental Fish Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Ornamental Fish Care
+- ✓ Article word count OK: Common Mistakes in Beginner Ornamental Fish Care
+- ✓ Article word count OK: Beginner Ornamental Fish Care for Beginners
+- ✓ Article word count OK: Advanced Beginner Ornamental Fish Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Ornamental Fish Care
+- ✓ Article word count OK: Advanced Ornamental Fish Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Ornamental Fish Care
+- ✓ Article word count OK: Advanced Ornamental Fish Care Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Ornamental Fish Care
+- ✓ Article word count OK: Advanced Ornamental Fish Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Ornamental Fish Care
+- ✓ Article word count OK: Common Mistakes in Advanced Ornamental Fish Care
+- ✓ Article word count OK: Advanced Ornamental Fish Care for Beginners
+- ✓ Article word count OK: Advanced Advanced Ornamental Fish Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ornamental Fish Care Tips
+- ✓ Article word count OK: Ornamental Fish Care Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ornamental Fish Care Tips
+- ✓ Article word count OK: Ornamental Fish Care Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Ornamental Fish Care Tips
+- ✓ Article word count OK: Ornamental Fish Care Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Ornamental Fish Care Tips
+- ✓ Article word count OK: Common Mistakes in Ornamental Fish Care Tips
+- ✓ Article word count OK: Ornamental Fish Care Tips for Beginners
+- ✓ Article word count OK: Advanced Ornamental Fish Care Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ornamental Fish Care History
+- ✓ Article word count OK: Ornamental Fish Care History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ornamental Fish Care History
+- ✓ Article word count OK: Ornamental Fish Care History Tips and Best Practices
+- ✓ Article word count OK: The History of Ornamental Fish Care History
+- ✓ Article word count OK: Ornamental Fish Care History in 2026: Current Trends
+- ✓ Article word count OK: Future of Ornamental Fish Care History
+- ✓ Article word count OK: Common Mistakes in Ornamental Fish Care History
+- ✓ Article word count OK: Ornamental Fish Care History for Beginners
+- ✓ Article word count OK: Advanced Ornamental Fish Care History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Ornamental Fish Care
+- ✓ Article word count OK: Trending Ornamental Fish Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Ornamental Fish Care
+- ✓ Article word count OK: Trending Ornamental Fish Care Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Ornamental Fish Care
+- ✓ Article word count OK: Trending Ornamental Fish Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Ornamental Fish Care
+- ✓ Article word count OK: Common Mistakes in Trending Ornamental Fish Care
+- ✓ Article word count OK: Trending Ornamental Fish Care for Beginners
+- ✓ Article word count OK: Advanced Trending Ornamental Fish Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ornamental Fish Care Tutorials
+- ✓ Article word count OK: Ornamental Fish Care Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ornamental Fish Care Tutorials
+- ✓ Article word count OK: Ornamental Fish Care Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Ornamental Fish Care Tutorials
+- ✓ Article word count OK: Ornamental Fish Care Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Ornamental Fish Care Tutorials
+- ✓ Article word count OK: Common Mistakes in Ornamental Fish Care Tutorials
+- ✓ Article word count OK: Ornamental Fish Care Tutorials for Beginners
+- ✓ Article word count OK: Advanced Ornamental Fish Care Tutorials Techniques
+- ✓ Ad configuration validated
